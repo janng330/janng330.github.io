@@ -1,0 +1,96 @@
+.navbar-brand{
+    top: 100px;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 240px;
+    padding: 15px;
+    background-color: black;
+}
+
+.logo{
+    height: 90px;
+    width: 210px;
+}
+
+.section2{
+    margin-top: 20%;
+}
+
+.socialmedia{
+    margin-top: 20%;
+}
+
+.list{
+    margin-top: 50%;
+}
+
+.rounded-circle{
+    
+    width:100px;
+    height:100px;
+}
+
+.fa-facebook{
+    color: aliceblue;
+    opacity: 80%;
+}
+
+.fa-youtube{
+    color: aliceblue;
+    opacity: 80%;
+}
+
+.fa-instagram-square{
+    color: aliceblue;
+    opacity: 80%;
+
+}
+
+.fa-linkedin{
+    color: aliceblue;
+    opacity: 80%;
+}
+
+.nav-link{
+    color: aliceblue;
+    opacity: 80%;
+}
+
+.listIcon{
+    margin-right: 20px;
+}
+
+.headerContainer{
+    margin-top: 30%;
+}
+
+.grey{
+    color: rgba(15, 14, 14, 0.787);
+    opacity: 100%;
+}
+
+.background{
+    height: 1000px;
+    width: 1200px;
+    opacity: 80%;
+}
+
+.headerContainer{
+        margin-top: 170px;
+
+    }
+.littleBox{
+    background-color: rgba(243, 239, 239, 0.546);
+    opacity: 100%;
+    height: 200px;
+    width: 600px;
+    margin-left: 380px;
+}
+.h1{
+    margin-top: 20px;
+}
